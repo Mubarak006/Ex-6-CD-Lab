@@ -71,19 +71,18 @@ int main() {
     fclose(fp);
     return 0;
 }
+
 ```
 
 ## exp6.txt:
 
-````
 t1 = a + b
 t2 = t1 - c
 
-```
 
-# OUTPUT
+## OUTPUT
 
 <img width="911" height="695" alt="image" src="https://github.com/user-attachments/assets/bc9d7ef7-07ae-4139-aa22-d24f2d3b3526" />
 
-# Result
+## Result
 The back end of the compiler is implemented successfully, and the output is verified.
