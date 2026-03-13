@@ -74,10 +74,13 @@ int main() {
 
 ```
 
-## exp6.txt:
+## exp6ip.txt
 
+```
 t1 = a + b
 t2 = t1 - c
+
+```
 
 
 ## OUTPUT
